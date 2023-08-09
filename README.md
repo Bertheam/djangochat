@@ -1,5 +1,5 @@
 # djangochat
-Bienvenue ! je me nomme Amadou un jeune passionné de programmation web. Ici je vous présente un projet de chat room que j'ai developpé avec 
+Bienvenue ! Je me nomme Amadou un jeune passionné de programmation web. Ici je vous présente un projet de chat room que j'ai developpé avec 
 Django.
 
 <br>DESCRIPTION:<br>
